@@ -1,0 +1,9 @@
+name	age	content	created_at
+Emma Johnson	20	Studying for my SQL class!	2026-09-20 10:00:00
+Liam Smith	21	Learning about databases today.	2026-09-21 11:30:00
+Noah Davis	22	SQL is starting to make sense.	2026-09-23 14:20:00
+Ava Wilson	20	Enjoying a beautiful day outside.	2026-09-24 16:45:00
+Ethan Miller	21	Finishing up some homework.	2026-09-25 18:00:00
+Lucas Anderson	22	Practicing SQL queries.	2026-09-27 13:10:00
+Isabella Thomas	20	Learning about JOIN operations.	2026-09-28 15:25:00
+James Moore	21	Almost finished with the lab!	2026-09-29 19:00:00
